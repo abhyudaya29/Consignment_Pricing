@@ -10,4 +10,6 @@ xgboost
 catboost
 dill
 Flask
+pymongo
+# json
 -e .
